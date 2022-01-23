@@ -10,7 +10,7 @@ p {
   display: inline-flex;
   margin: auto 10px;
   font-size: 22px;
-  color: blue;
+  color: #ff0000;
   border-radius: 6px;
   border: 1px solid lightblue;
   padding: 10px;
